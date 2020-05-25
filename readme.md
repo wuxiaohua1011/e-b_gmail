@@ -1,12 +1,11 @@
 # GMail
 
 ## To start
-Please click `Enable the Gmail API` in the ![quickstart tutorial](https://developers.google.com/gmail/api/quickstart/python)
-install required modules
-`pip install -r requirements.txt`
+1. Please click `Enable the Gmail API` in the ![quickstart tutorial](https://developers.google.com/gmail/api/quickstart/python)
 
-Run
-`python test.py`
+2. install required modules `pip install -r requirements.txt`
+
+3. Run `python test.py`
 
 
 
